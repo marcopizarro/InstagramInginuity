@@ -1,0 +1,4 @@
+landscape
+other
+portrait
+selfie
